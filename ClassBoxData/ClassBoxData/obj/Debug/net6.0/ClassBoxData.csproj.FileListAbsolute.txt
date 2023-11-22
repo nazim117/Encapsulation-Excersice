@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+C:\SoftUni-OOP\ClassBoxData\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll
